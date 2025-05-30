@@ -1,0 +1,2 @@
+
+var showAds=true;
